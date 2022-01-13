@@ -2,9 +2,9 @@
 esys Advent Calendar 2021の17、18日目の記事で使用したソースコード、画像データ、etc..を置くリポジトリ。
 
 ## 記事リンク
-17日目記事: https://blog.hatena.ne.jp/tanzankai/tanzankai.hatenablog.com/edit?entry=13574176438042687582
+17日目記事: https://tanzankai.hatenablog.com/entry/2021/12/17/000000
 
-18日目記事: https://blog.hatena.ne.jp/tanzankai/tanzankai.hatenablog.com/edit?entry=13574176438042789180
+18日目記事: https://tanzankai.hatenablog.com/entry/2021/12/18/000000
 
 ## contents
 
